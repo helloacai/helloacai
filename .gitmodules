@@ -1,0 +1,15 @@
+[submodule "spindle"]
+	path = spindle
+	url = git@github.com:helloacai/spindle.git
+[submodule "aci-registry-polygon"]
+	path = aci-registry-polygon
+	url = git@github.com:helloacai/aci-registry-polygon.git
+[submodule "ACAI-contracts"]
+	path = ACAI-contracts
+	url = git@github.com:helloacai/ACAI-contracts.git
+[submodule "langchain-examples"]
+	path = langchain-examples
+	url = git@github.com:helloacai/langchain-examples.git
+[submodule "acai-chatbot"]
+	path = acai-chatbot
+	url = git@github.com:helloacai/acai-chatbot.git
